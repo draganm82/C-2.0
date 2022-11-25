@@ -1,0 +1,14 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  AssemblyInfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  Reflecting.cpp
+d:\download c\c++2.0.net\chapter18\reflecting\Form1.h(241): warning C4947: 'System::Reflection::Assembly::LoadWithPartialName': marked as obsolete
+  d:\download c\c++2.0.net\chapter18\reflecting\Form1.h(241): note: Message: 'This method has been deprecated. Please use Assembly.Load() instead. http://go.microsoft.com/fwlink/?linkid=14202'
+  Generating Code...
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Reflecting.vcxproj -> D:\Download C\C++2.0.net\Chapter18\Debug\Reflecting.exe
+  Reflecting.vcxproj -> D:\Download C\C++2.0.net\Chapter18\Debug\Reflecting.pdb (Full PDB)
